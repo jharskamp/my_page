@@ -1,0 +1,12 @@
+== README
+
+This is the personal page for Joseph Harskamp
+This page will contain the following:
+
+A home page
+
+An about page
+
+A contact information page
+
+A scrolling javascript slide show.
